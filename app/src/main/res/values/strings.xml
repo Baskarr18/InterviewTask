@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Json parsing with Realm</string>
+    <string name="permission_message_gps">Need your location updates to serve you best!</string>
+    <string name="open_setting">Open Setting</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
